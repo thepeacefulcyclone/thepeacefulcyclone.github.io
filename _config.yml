@@ -1,0 +1,29 @@
+title: The Peaceful Cyclone
+description: 
+author: 
+url: "https://thepeacefulcyclone.github.io"
+baseurl: ""
+
+# Build settings
+theme: minima
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Minima theme settings
+minima:
+  skin: classic
+  date_format: "%Y.%m.%d"
+
+# Show excerpts on the homepage
+show_excerpts: false
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Pagination (optional, enable later if needed)
+# plugins:
+#   - jekyll-paginate
+# paginate: 10
