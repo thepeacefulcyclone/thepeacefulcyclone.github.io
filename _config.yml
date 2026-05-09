@@ -12,7 +12,7 @@ permalink: /:year/:month/:day/:title/
 # Minima theme settings
 minima:
   skin: classic
-  date_format: "%Y.%m.%d"
+  date_format: "%d.%m.%Y"
 
 # Show excerpts on the homepage
 show_excerpts: false
